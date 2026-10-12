@@ -1,0 +1,6 @@
+observations_averaged,exact_localization_probability,localization_within_2_samples
+1,0.1216,0.2553
+2,0.2424,0.4141
+5,0.5745,0.7598
+10,0.8472,0.9591
+20,0.9661,0.9993
